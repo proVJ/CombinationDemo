@@ -1,0 +1,8 @@
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.xml

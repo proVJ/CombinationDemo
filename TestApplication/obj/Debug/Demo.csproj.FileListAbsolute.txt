@@ -1,0 +1,16 @@
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Demo.exe.config
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Demo.exe
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Demo.pdb
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\obj\Debug\Demo.exe
+C:\Users\MacOne\Documents\Visual Studio 2017\Projects\ConsoleApplication\TestApplication\TestApplication\obj\Debug\Demo.pdb
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Demo.exe.config
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Demo.exe
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Demo.pdb
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.dll
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\bin\Debug\Newtonsoft.Json.xml
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\obj\Debug\Demo.exe
+E:\Assignment\ConsoleApplication\TestApplication\TestApplication\obj\Debug\Demo.pdb
